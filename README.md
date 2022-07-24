@@ -22,4 +22,5 @@ The `yyyy` is the current year based on whatever was entered into the date forma
 
 
 ### Pages
+- [Main Page](https://brand0n1.github.io/)
 - [Mob List (SpawnerShards)](https://brand0n1.github.io/minecraft-mob-list/)
