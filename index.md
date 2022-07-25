@@ -14,7 +14,7 @@ __Region specific data was gathered from [mit.edu](https://iso.mit.edu/americani
 Lets start off by saying that the dashes `-` don't have anything to do with the actual formatting, and are just added in so it reads nicer.
 
 The `MM` seen in all of these date formats is capitolized because when dealing with dates in java the lowercase counterpart `mm` will get minutes.
-`MM` will return the month of the year based on whatever was entered into the date formater.
+`MM` will return the month of the year based on whatever was entered into the date formater. Doing one `M` will result in just the month appearing while doing `MMM` will return the written shorthand of the month. `MMMM` will return the full name of the month.
 
 The `dd` is the current day of the month based on whatever was entered into the date formater. We use lowercase `dd` in this situation because the upercase version will result in getting the current day of the year rather than month, throwing off the date.
 
